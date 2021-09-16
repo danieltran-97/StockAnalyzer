@@ -1,0 +1,12 @@
+/Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzer/bin/Debug/net5.0/StockAnalyzer.deps.json
+/Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzer/bin/Debug/net5.0/StockAnalyzer.dll
+/Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzer/bin/Debug/net5.0/ref/StockAnalyzer.dll
+/Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzer/bin/Debug/net5.0/StockAnalyzer.pdb
+/Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzer/obj/Debug/net5.0/StockAnalyzer.csprojAssemblyReference.cache
+/Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzer/obj/Debug/net5.0/StockAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzer/obj/Debug/net5.0/StockAnalyzer.AssemblyInfoInputs.cache
+/Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzer/obj/Debug/net5.0/StockAnalyzer.AssemblyInfo.cs
+/Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzer/obj/Debug/net5.0/StockAnalyzer.csproj.CoreCompileInputs.cache
+/Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzer/obj/Debug/net5.0/StockAnalyzer.dll
+/Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzer/obj/Debug/net5.0/ref/StockAnalyzer.dll
+/Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzer/obj/Debug/net5.0/StockAnalyzer.pdb

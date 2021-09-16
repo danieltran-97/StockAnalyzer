@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockAnalyzerTest", "StockAnalyzerTest\StockAnalyzerTest.csproj", "{7F7200C6-CC2C-4436-B9ED-E2C272994216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockAnalyzer", "StockAnalyzer\StockAnalyzer.csproj", "{77D97FDB-2ABF-4225-807B-29089B547952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F7200C6-CC2C-4436-B9ED-E2C272994216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7200C6-CC2C-4436-B9ED-E2C272994216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7200C6-CC2C-4436-B9ED-E2C272994216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7200C6-CC2C-4436-B9ED-E2C272994216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D97FDB-2ABF-4225-807B-29089B547952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D97FDB-2ABF-4225-807B-29089B547952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D97FDB-2ABF-4225-807B-29089B547952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D97FDB-2ABF-4225-807B-29089B547952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
