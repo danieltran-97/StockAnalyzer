@@ -99,3 +99,5 @@
 /Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzerTest/obj/Debug/net5.0/ref/StockAnalyzerTest.dll
 /Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzerTest/obj/Debug/net5.0/StockAnalyzerTest.pdb
 /Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzerTest/obj/Debug/net5.0/StockAnalyzerTest.genruntimeconfig.cache
+/Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzerTest/bin/Debug/net5.0/Castle.Core.dll
+/Users/danieltran/C# Projects/StockAnalyzer/StockAnalyzerTest/bin/Debug/net5.0/Moq.dll
